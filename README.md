@@ -11,7 +11,7 @@ This project is a web scraper designed to extract course information from the Ma
 ## Installation
 1. Clone this repository:
    ```sh
-   git clone https://github.com/your-username/mate-academy-scraper.git
+   git clone https://github.com/AntonAKG/mate-academy-scraper.git
    cd mate_test_task
    ```
 
